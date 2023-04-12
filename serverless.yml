@@ -36,7 +36,7 @@ provider:
     tags:
         Name: api-backend
         Description: "Proyecto final KK"
-        Responsible: "Desarrollador Backend Fabio Anaya"
+        Responsible: "Desarrollador Backend"
         ProjectName: "Api Backend"
         Environment: pdn
         creationDate: 2022-02-15
